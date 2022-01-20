@@ -6,4 +6,4 @@
 
 ![image not available](https://github.com/RBiswa787/Assg2_ReactNative/blob/main/assets/as2.jpeg)
 
-<img src="https://github.com/RBiswa787/Assg2_ReactNative/blob/main/assets/as2.jpeg" alt="not available" style="height: 250px; width:100px;"/>
+<img src="https://github.com/RBiswa787/Assg2_ReactNative/blob/main/assets/as2.jpeg" alt="not available" style="height: 30%; width:25%;"/>
